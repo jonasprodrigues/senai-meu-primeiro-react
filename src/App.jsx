@@ -9,7 +9,7 @@ function App() {
     <div>
       <h1>Cadastro de usuarios</h1>
       <p>Jonas</p>
-      <p>Curso Desenvolvimento WEB - Start CO.DE</p>
+      <p>Curso - Desenvolvimento WEB - Start CO.DE</p>
       <div>
         <img src={heroImg} alt="Imagem de um herói" />
         <Saudacao />    
